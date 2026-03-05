@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Joan
 
-<!--
-**Joan5232/Joan5232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Application Development Student  
+🚀 Passionate about building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technologies & Tools
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+
+### Backend
+- Node.js
+- Java
+- Python
+- C
+
+### Databases
+- SQL
+- MongoDB
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React
+- Backend development with Node.js
+- Software architecture
+
+---
+
+## 🛠 Projects
+
+Some projects I have worked on:
+
+- 📋 **JS Todo List** – Vanilla JavaScript task manager
+- 📅 **Google Calendar Bot** – Automation with n8n
+- 💼 **Job Seeker** – Job search tool
+
+---
+
+## 📊 GitHub Stats
+
+![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joan5232&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌍 Connect with me
+
+- GitHub: https://github.com/Joan5232
