@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 Technologies & Tools
+## Technologies & Tools
 
 ### Frontend
 - HTML
@@ -26,7 +26,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Advanced React
 - Backend development with Node.js
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠 Projects
+## Projects
 
 Some projects I have worked on:
 
@@ -44,12 +44,12 @@ Some projects I have worked on:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joan5232&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌍 Connect with me
+## Connect with me
 
 - GitHub: https://github.com/Joan5232
