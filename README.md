@@ -34,16 +34,6 @@
 
 ---
 
-## Projects
-
-Some projects I have worked on:
-
-- 📋 **JS Todo List** – Vanilla JavaScript task manager
-- 📅 **Google Calendar Bot** – Automation with n8n
-- 💼 **Job Seeker** – Job search tool
-
----
-
 ## GitHub Stats
 
 ![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joan5232&show_icons=true&theme=tokyonight)
